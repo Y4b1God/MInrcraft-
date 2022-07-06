@@ -1,2 +1,2 @@
-# MInrcraft-
+# MInrcraft
 MInecraft settings LoL
